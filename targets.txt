@@ -1,0 +1,2 @@
+# Daily Notes
+Add new utility script for data seeding
